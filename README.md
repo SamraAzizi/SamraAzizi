@@ -53,5 +53,5 @@ const samira = {
   tools: ["React", "OpenCV", "Git"],
   learning: ["Advanced Algorithms", "Web Development"],
   challenge: "Building awesome projects daily!",
-  funFact: "I turn coffee into code ☕ → 💻"
+  
 };
